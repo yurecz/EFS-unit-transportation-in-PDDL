@@ -1,2 +1,2 @@
 "# EFS-unit-transportation-in-PDDL" 
-"http://solver.planning.domains\n" 
+"http://solver.planning.domains" 
