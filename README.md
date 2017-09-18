@@ -1,2 +1,5 @@
 "# EFS-unit-transportation-in-PDDL"
-"http://solver.planning.domains" 
+
+Solvers:
+Default       http://solver.planning.domains
+Fast Downward http://fd-solver.herokuapp.com
