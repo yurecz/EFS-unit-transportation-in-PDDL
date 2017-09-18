@@ -1,5 +1,6 @@
-"# EFS-unit-transportation-in-PDDL"
+# EFS-unit-transportation-in-PDDL
+Attempt to describe the EoFS transportation domain problem using PDDL language
 
-Solvers:
-Default       http://solver.planning.domains
-Fast Downward http://fd-solver.herokuapp.com
+# Solvers:
+1. Default       http://solver.planning.domains
+2. Fast Downward http://fd-solver.herokuapp.com
